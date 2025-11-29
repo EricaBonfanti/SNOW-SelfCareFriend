@@ -4,7 +4,7 @@
 
 ## 🎯 Visão Geral do Projeto
 
-O **SNow** é um protótipo de aplicação web concebido como uma ferramenta de **apoio emocional e autoconhecimento**. Este projeto foi desenvolvido como requisito final do **Projeto Integrador (PI)** para a conclusão do Curso Técnico em Informática do **CEDUP Abílio Paulo - Criciúma SC**.
+O **Snow** é um protótipo de aplicação web concebido como uma ferramenta de **apoio emocional e autoconhecimento**. Este projeto foi desenvolvido como requisito final do **Projeto Integrador (PI)** para a conclusão do Curso Técnico em Informática do **CEDUP Abílio Paulo - Criciúma SC**.
 
 O projeto visa mitigar os efeitos da crescente crise de saúde mental na sociedade, abordando o aumento de **67%** nos afastamentos do trabalho por transtornos mentais no Brasil em 2024.
 
