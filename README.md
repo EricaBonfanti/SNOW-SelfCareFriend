@@ -1,6 +1,6 @@
 ![Banner do Projeto SNow](docs/fundoSnow.png)
 
-# ❄️ ANÁLISE E DESENVOLVIMENTO DE UM PROTÓTIPO DE SOFTWARE PARA APOIO EMOCIONAL: SNow - Self Care Friend
+# ❄️ ANÁLISE E DESENVOLVIMENTO DE UM PROTÓTIPO DE SOFTWARE PARA APOIO EMOCIONAL: Snow - Self Care Friend
 
 ## 🎯 Visão Geral do Projeto
 
