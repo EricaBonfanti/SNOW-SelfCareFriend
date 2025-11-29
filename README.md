@@ -36,7 +36,7 @@ Este projeto foi desenvolvido utilizando a seguinte pilha tecnológica:
 
 Acesse a documentação completa do projeto SNow, incluindo tutoriais de uso e funcionalidades, através do manual criado no Canva:
 
-[**Acessar Manual do Usuário (PDF)**](docs/ManualUsuario.pdf)
+[**Acessar Manual do Usuário (PDF)**](docs/Manual_usuario_TCC.pdf)
 
 ## 🤝 Autoria e Créditos
 
