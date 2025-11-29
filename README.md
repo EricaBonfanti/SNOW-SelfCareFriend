@@ -1,7 +1,14 @@
+
 ![Banner do Projeto SNow](docs/fundoSnow.png)
 
 # ❄️ ANÁLISE E DESENVOLVIMENTO DE UM PROTÓTIPO DE SOFTWARE PARA APOIO EMOCIONAL: Snow - Self Care Friend
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Status-Protótipo%20Concluído-blue?style=for-the-badge" alt="Status do Projeto Concluído">
+    <img src="https://img.shields.io/badge/Front--end-HTML%20%7C%20CSS%20%7C%20JS-F1E8FF?style=for-the-badge&logo=javascript&logoColor=black" alt="Tecnologias Front-end">
+    <img src="https://img.shields.io/badge/Back--end-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Tecnologia Back-end PHP">
+    <img src="https://img.shields.io/badge/Banco%20de%20Dados-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="Banco de Dados MySQL">
+</p>
 ## 🎯 Visão Geral do Projeto
 
 O **Snow** é um protótipo de aplicação web concebido como uma ferramenta de **apoio emocional e autoconhecimento**. Este projeto foi desenvolvido como requisito final do **Projeto Integrador (PI)** para a conclusão do Curso Técnico em Informática do **CEDUP Abílio Paulo - Criciúma SC**.
