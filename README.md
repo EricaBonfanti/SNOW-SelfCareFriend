@@ -60,6 +60,11 @@ O desenvolvimento do SNow envolveu a aplicação prática de diversas tecnologia
 | **Gestão** | Trello, VS Code | Gerenciamento de tarefas e ambiente de codificação. |
 
 ---
+### 👩🏽‍💻 SQL do Banco de Dados
+
+[**Acessar SQL do banco de dados (SQL)**](SQL/tccsnow.sql)
+
+---
 
 ### 📖 Manual do Usuário
 
