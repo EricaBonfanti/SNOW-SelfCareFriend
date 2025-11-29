@@ -81,4 +81,4 @@ Este projeto foi desenvolvido por:
 * **Érica Bonfanti Corrêa** - https://github.com/EricaBonfanti
 * **Laura De Bona Sartor** - https://github.com/Laura-Sartor
 
-**Orientadora Acadêmica:** Jessica Ronsoni Dondossola
+**Orientadora Acadêmica:** Jessica Ronconi Dondossola
